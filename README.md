@@ -6,7 +6,7 @@
 
   **A fast, clean, and modern online JSON editor, visualizer, and analyzer built for developers.**
 
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-jsoncraft.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jsoncraft.vercel.app)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-jsoncraft-six.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jsoncraft-six.vercel.app)
   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeFiroz/jsoncraft)
   [![Next.js](https://img.shields.io/badge/Next.js-16.4-black?style=flat-square&logo=next.js)](https://nextjs.org/)
   [![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)](https://react.dev/)
@@ -15,7 +15,7 @@
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
 
   <p align="center">
-    <a href="https://jsoncraft.vercel.app"><strong>🌐 Try Live Demo</strong></a> •
+    <a href="https://jsoncraft-six.vercel.app"><strong>🌐 Try Live Demo</strong></a> •
     <a href="#-features">✨ Features</a> •
     <a href="#-how-it-works">⚙️ How It Works</a> •
     <a href="#-keyboard-shortcuts">⌨️ Shortcuts</a> •
@@ -43,7 +43,7 @@ All processing is executed **100% locally in your browser**—no server uploads,
 
 Experience the full interactive workspace live on Vercel:
 
-👉 **[https://jsoncraft.vercel.app](https://jsoncraft.vercel.app)**
+👉 **[https://jsoncraft-six.vercel.app](https://jsoncraft-six.vercel.app)**
 
 ---
 
@@ -266,7 +266,7 @@ The easiest way to deploy JSONCraft is using the [Vercel Platform](https://verce
    - **Output Directory:** `.next`
 4. Click **Deploy** to go live in seconds!
 
-Live Demo: **[https://jsoncraft.vercel.app](https://jsoncraft.vercel.app)**
+Live Demo: **[https://jsoncraft-six.vercel.app](https://jsoncraft-six.vercel.app)**
 
 ---
 
